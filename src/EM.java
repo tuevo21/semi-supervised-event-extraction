@@ -1,3 +1,9 @@
+/*
+
+Implementation of the naive Bayes version of the EM algorithm.
+
+*/
+
 package classes;
 
 import java.math.*;
