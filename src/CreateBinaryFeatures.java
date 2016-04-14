@@ -1,4 +1,5 @@
-//a java program to retrieve binary features of data from kbp
+/*a java program which takes input as a list of Clause and the kBP dataset, and return features in binary format.
+*/
 
 package classes;
 
