@@ -1,5 +1,5 @@
 # semi-supervised-event-extraction
-Code for 2015 summer nlp reseach project 
+Code for 2015 summer nlp reseach project at Carnegie Mellon University
 
 ### external jar libraries
 
